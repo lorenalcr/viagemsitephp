@@ -1,7 +1,7 @@
 <div class="p-3 mb-2 bg-dark-subtle">
   <nav class="navbar navbar-expand-lg .bg-black">
     <div class="container-fluid">
-      <a class="navbar-brand" href="lcr">LCR Viagens</a>
+      <a class="navbar-brand" href="lcr">LCR VIAGEM</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -40,7 +40,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link disabled" aria-disabled="true">Pacotes</a>
+            <a class="nav-link" true>Pacotes</a>
           </li>
         </ul>
       </div>
